@@ -6,7 +6,7 @@ Remote sensing change detection (RSCD), which identifies the changed and unchang
 
 ![overview](images/overview.jpg)
 
-This figure shows the workflow of our tracker.
+This figure shows the workflow of our method.
 
 ## Get Start
 **1. Download Datasets**
